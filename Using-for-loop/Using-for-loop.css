@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  margin-top: 400px;
+}
+#box1 {
+  font-size: xx-large;
+  border: 10px white;
+  border-style: double;
+  width: 15%;
+  height: 15%;
+  display: grid;
+  justify-content: center;
+  color: whitesmoke;
+}
+#box1:hover {
+  color: blue;
+}
+#image {
+  background-image: url(https://spikeybits.com/wp-content/uploads/2017/08/Batman-4.jpg);
+  background-repeat: no-repeat;
+  width: 900px;
+  height: 900px;
+}
