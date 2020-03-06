@@ -2,7 +2,7 @@
 the counter and the array both start from 0(rather than 1).so within the loop
 to select the current item from the array, e,g.,score[i].but remember that it is a number lower then you might expect (e,g.,first itaration is 0 second is 1)
 a for loop is often used to loop through the items in an array
-in this example, the score for each round of the test are stored in array caleed scores.
+in this example, the score for each round of the test are stored in array called scores.
 
 the total number of items in the array is stored in a variable called arrayLength. this number is obtained using the length property of the array.
 
